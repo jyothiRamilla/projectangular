@@ -1,0 +1,65 @@
+<div class="jumbotron w" style="background-color:rgb(224, 244, 245)   ">
+   
+        <h1 style="color:#000000;margin-left:80px;"><span class="q">Water Sarige</span></h1>
+        <p style="margin-left:280px;font-size:16px;color:blue;">To the pure, supplying pure...!</p>
+        <div class="container">
+            <div class="nav">
+                <div class="row">
+                    <div class="col-md-7"></div>
+                    <div class="col-md-2">
+                        <p><a [routerLink]="['/login']"> Login</a></p>
+                    </div>
+                    <div class="col-md-2">  
+                        <a [routerLink]="['/signup']" class="btn btn-lg btn-primary" role="button">Sign up </a>
+                    </div>
+                </div>
+            </div>
+         </div> <br> <br>
+         <div class="t">
+            <div class="carousel " data-interval="3500" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="item  active">
+                        <div class="carousel-caption">
+                            <h3 class="s text-left">No Water...??</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="carousel-caption">
+                           <h3 class="s text-left">Feeling Thirsty...!!!</h3>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <div class="carousel-caption">
+                            <h3 class="s text-left">Not satisfied with quality...?</h3>
+                        </div>
+                    </div>
+                </div>   
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div>
+                <p style="color:grey;margin-left:115px" >Place Order, Get Water Home...</p>
+            </div>
+        </div>
+         <div class="dropdown aa">
+                <button class="btn btn-primary dropdown-toggle bb " type="button" data-toggle="dropdown">Select Vendor
+                <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                  <li><a [routerLink]="['/vendor']">sree Supliers,Jayanagar 4th block</a></li>
+                  <li><a href="#">Anytime Suppliers,JC Road</a></li>
+                  <li><a href="#">Mono Suppliers,MG Road</a></li>
+                  <li><a href="#">sree Supliers,Jayanagar 4th block</a></li>
+                  <li><a href="#">Anytime Suppliers,JC Road</a></li>
+                  <li><a href="#">Mono Suppliers,MG Road</a></li>
+                </ul>
+              </div>
+        
+        <br/>
+        
+        
+        
+      <a routerLink="/map"><button type="button" class="btn btn-lg btn-primary m" onclick="showPosition();">Delivery Location &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-globe" aria-hidden=true></span></button>
+          </a>     
+    </div>
+    

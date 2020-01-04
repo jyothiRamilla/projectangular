@@ -1,0 +1,34 @@
+.ww{
+  margin-top:-20px;
+  background-color:white;
+  
+  }
+  h3{
+  margin-top:-0px;
+    color:black;
+  }
+  .rr{
+      font-size:15px;
+      color:grey;
+      text-align:justify;
+  }
+  .ee{
+
+      color:maroon;
+      font-family:serif;
+      font-size:18px;
+  }
+  
+  .im{
+    margin-top:-10px;
+      height:40px;
+      width:40px;
+      border-radius:50%;
+    
+    }
+    .qq{
+      margin-left:60px;
+      margin-top:-30px;
+      color: black;
+      font-size:30px;
+  }

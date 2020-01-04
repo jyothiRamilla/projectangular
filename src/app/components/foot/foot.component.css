@@ -1,0 +1,51 @@
+.cl{
+    background-color: black;
+}
+.mg{
+    margin-left: 70px;
+}
+hr {
+    width: 96%;
+    border: 0;
+    height: 1px;
+    background-color:grey;
+    opacity: 0.8;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+
+  .tt{
+      margin-top:-20px;
+      color: white;
+  }
+  .im{
+
+    
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    }
+    .uu{
+        margin-top:19px;
+    }
+    .c{
+      color:white; 
+    }
+    .b:hover{
+        -ms-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    
+    
+     }

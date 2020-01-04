@@ -1,0 +1,19 @@
+.hd{
+    text-align: center;
+     color: blue;
+ }
+ .aa{
+  margin-top:-50px;
+ 
+ 
+ }
+ .b:hover{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+
+ }
+.b{
+    border-radius:10px;
+} 

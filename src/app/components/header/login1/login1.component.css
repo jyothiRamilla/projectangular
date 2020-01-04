@@ -1,0 +1,39 @@
+.w{
+    width: 104%;
+}
+.m{
+    margin-left: 100px;
+}
+.im{
+
+
+height:50px;
+width:50px;
+border-radius:50%
+
+
+
+}
+.aa{
+    margin-left:100px;
+    width:900px;
+}
+.bb{
+    font-size:18px;
+    padding:8px;
+}
+.q:hover{
+    color:blue;
+}
+.item {
+    text-align:middle;
+    height: 80px;
+    margin-top: 15px;
+    }
+.t{
+     width: 500px;
+     height: 50px;
+    }
+.s{
+    color: blue;
+}
